@@ -1,0 +1,26 @@
+.app {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+  gap: 20px;
+  height: 100vh;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.my_table {
+  width: 100%;
+  border: 2px;
+  border-collapse: collapse;
+  background-color: antiquewhite;
+  padding: 40px;
+}
+
+.card-body table{
+
+  margin: 40px;
+  padding: 40px;
+
+}
